@@ -1,5 +1,7 @@
 # Liste des sujets de l'oral 2 (EOD) de CAPES de mathématiques
 
+[voir/corriger sur Github](https://github.com/ktzanev/O2CapesMath)
+
 ## 2017
 
 - [2017.01](Oral2_CAPES_2017.01.pdf) Suites
