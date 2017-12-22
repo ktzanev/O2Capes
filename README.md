@@ -1,9 +1,8 @@
-# O2Capes
-Liste des sujets de l'oral 2 (EOD) de CAPES de mathématiques
+# Liste des sujets de l'oral 2 (EOD) de CAPES de mathématiques
 
 ## 2017
 
-- [2017.01](Oral2_CAPES_2014.01.pdf) Suites
+- [2017.01](Oral2_CAPES_2017.01.pdf) Suites
 - [2017.02](Oral2_CAPES_2017.02.pdf) Algorithmique et programmation
 - [2017.03](Oral2_CAPES_2017.03.pdf) Géométrie plane
 - [2017.04](Oral2_CAPES_2017.04.pdf) Problèmes conduisant à l’étude d’une fonction
