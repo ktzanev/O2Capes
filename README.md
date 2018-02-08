@@ -24,6 +24,13 @@
 - [2017.18](Oral2_CAPES_2017.18.pdf) Prise d’initiative
 - [2017.19](Oral2_CAPES_2017.19.pdf) Prise d’initiative
 
+# 2017 (troisième concours)
+
+- [2017t.01](Oral2_CAPES_2017t.01.pdf) Suites
+- [2017t.02](Oral2_CAPES_2017t.02.pdf) Géométrie plane
+- [2017t.03](Oral2_CAPES_2017t.03.pdf) Probabilités
+- [2017t.04](Oral2_CAPES_2017t.04.pdf) Grandeurs et mesures
+
 ## 2016
 
 - [2016.01](Oral2_CAPES_2016.01.pdf) Géométrie plane
@@ -44,6 +51,13 @@
 - [2016.16](Oral2_CAPES_2016.16.pdf) Géométrie dans l'espace
 - [2016.17](Oral2_CAPES_2016.17.pdf) Problèmes se ramenant à une résolution d'équation
 - [2016.18](Oral2_CAPES_2016.18.pdf) Problèmes avec prise d'initiative
+
+# 2016 (troisième concours)
+
+- [2016t.01](Oral2_CAPES_2016t.01.pdf) Suites
+- [2016t.02](Oral2_CAPES_2016t.02.pdf) Problèmes avec prise d’initiative
+- [2016t.03](Oral2_CAPES_2016t.03.pdf) Optimisation
+- [2016t.04](Oral2_CAPES_2016t.04.pdf) Différents types de raisonnement
 
 ## 2015
 
@@ -69,6 +83,13 @@
 - [2015.20](Oral2_CAPES_2015.20.pdf) Optimisation
 - [2015.21](Oral2_CAPES_2015.21.pdf) Grandeurs et mesures
 - [2015.22](Oral2_CAPES_2015.22.pdf) Géométrie dans l’espace
+
+# 2015 (troisième concours)
+
+- [2015t.01](Oral2_CAPES_2015t.01.pdf) Problème conduisant à l’étude de suites
+- [2015t.02](Oral2_CAPES_2015t.02.pdf) Probabilités
+- [2015t.03](Oral2_CAPES_2015t.03.pdf) Problèmes d’optimisation
+- [2015t.04](Oral2_CAPES_2015t.04.pdf) Problèmes conduisant à l’étude d’un polynôme du second degré
 
 ## 2014
 
@@ -108,4 +129,9 @@
 - [2014e.14](Oral2_CAPES_2014e.14.pdf) Matrices et suites
 - [2014e.15](Oral2_CAPES_2014e.15.pdf) Équations différentielles
 
+# 2014 (troisième concours)
 
+- [2014t.01](Oral2_CAPES_2014t.01.pdf) Loi binomiale
+- [2014t.02](Oral2_CAPES_2014t.02.pdf) Résolution d’équations
+- [2014t.03](Oral2_CAPES_2014t.03.pdf) Modélisation à l’aide de suites
+- [2014t.04](Oral2_CAPES_2014t.04.pdf) Grandeurs et mesures
