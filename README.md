@@ -2,6 +2,37 @@
 
 [voir/corriger sur Github](https://github.com/ktzanev/O2CapesMath)
 
+## 2019
+
+- [2019.01](Oral2_CAPES_2019.01.pdf) Suites
+- [2019.02](Oral2_CAPES_2019.02.pdf) Arithmétique
+- [2019.03](Oral2_CAPES_2019.03.pdf) Probabilités
+- [2019.04](Oral2_CAPES_2019.04.pdf) Conjecture et démonstration
+- [2019.05](Oral2_CAPES_2019.05.pdf) Géométrie dans l'espace
+- [2019.06](Oral2_CAPES_2019.06.pdf) Modélisation
+- [2019.07](Oral2_CAPES_2019.07.pdf) Problème avec prise d'initiative
+- [2019.08](Oral2_CAPES_2019.08.pdf) Suites
+- [2019.09](Oral2_CAPES_2019.09.pdf) Probabilités
+- [2019.10](Oral2_CAPES_2019.10.pdf) Conjecture et démonstration
+- [2019.11](Oral2_CAPES_2019.11.pdf) Géométrie plane
+- [2019.12](Oral2_CAPES_2019.12.pdf) Optimisation
+- [2019.13](Oral2_CAPES_2019.13.pdf) Problème avec prise d'initiative
+- [2019.14](Oral2_CAPES_2019.14.pdf) Problème avec prise d'initiative
+- [2019.15](Oral2_CAPES_2019.15.pdf) Dérivation
+- [2019.16](Oral2_CAPES_2019.16.pdf) Géométrie plane
+- [2019.17](Oral2_CAPES_2019.17.pdf) Suites
+- [2019.18](Oral2_CAPES_2019.18.pdf) Géométrie dans l'espace
+- [2019.19](Oral2_CAPES_2019.19.pdf) Problème conduisant à l'étude de fonctions
+- [2019.20](Oral2_CAPES_2019.20.pdf) Raisonnement
+
+## 2019 (troisième concours)
+
+- [2019t.01](Oral2_CAPES_2019t.01.pdf) Probabilités
+- [2019t.02](Oral2_CAPES_2019t.02.pdf) Conjecture et démonstration
+- [2019t.03](Oral2_CAPES_2019t.03.pdf) Géométrie plane
+- [2019t.04](Oral2_CAPES_2019t.04.pdf) Problèmes conduisant à la résolution d'équations
+- [2019t.05](Oral2_CAPES_2019t.05.pdf) Arithmétique
+
 ## 2018
 
 - [2018.01](Oral2_CAPES_2018.01.pdf) Géométrie plane
@@ -161,3 +192,11 @@
 - [2014t.02](Oral2_CAPES_2014t.02.pdf) Résolution d'équations
 - [2014t.03](Oral2_CAPES_2014t.03.pdf) Modélisation à l'aide de suites
 - [2014t.04](Oral2_CAPES_2014t.04.pdf) Grandeurs et mesures
+
+# Source
+
+Les fichiers sont obtenus à partir des [archives du jury du CAPES](http://www4.ac-nancy-metz.fr/capesmath/index.php?id=archives).
+Les fichiers PDF pour l'année `20XX` sont scindés en pages séparées avec la commande :
+```
+pdfseparate Oral2_CAPES_20XX.pdf Oral2_CAPES_20XX.%d.pdf
+```
